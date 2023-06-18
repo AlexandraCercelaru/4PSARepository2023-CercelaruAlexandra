@@ -6,4 +6,4 @@ Creating structure: In this section, we will create a simple structure of web pa
 
 
 
-Am adaugat doua schimbari pe local-branch. 
+Am adaugat doua (2) schimbari pe local-branch. 
